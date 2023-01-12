@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004965902243",
+    "project_id": "perpusatakaan-55493",
+    "storage_bucket": "perpusatakaan-55493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004965902243:android:2757729e7d72ab7cac0c16",
+        "android_client_info": {
+          "package_name": "com.proschool.perpustakaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004965902243-u7sr6crtpl10jobg9adqteit01qa4v5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVok5Pyl9VCJnEf_WvldXbMWl9fjrwPC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004965902243-u7sr6crtpl10jobg9adqteit01qa4v5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
